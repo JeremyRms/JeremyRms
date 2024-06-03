@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 Hello here!
+### 🌱 Hello!
+
+My current interests are:
+- 🔭 Python
+- 🌱 Machine learning and AI, especially CNNs
 
 Some quotes:
 
@@ -32,4 +36,6 @@ Some quotes:
 
 — Henry Ford
 
+<!--
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyRms&count_private=true&hide=contribs&show_icons=true&theme=radical)
+-->
