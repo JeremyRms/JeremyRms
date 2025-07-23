@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### 🌱 Hello!
 
 My current interests are:
-- 🔭 Python
+- 🔭 Elixir, Python, Durable execution
 - 🌱 Machine learning and AI, especially CNNs
 
 Some quotes:
