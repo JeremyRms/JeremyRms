@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 My current interests are:
 - 🔭 Elixir, Python, Durable execution
-- 🌱 Machine learning and AI, especially CNNs
+- 🌱 Machine learning and AI, especially CNNs, MCPs and Agents
 
 Some quotes:
 
